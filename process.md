@@ -1,20 +1,18 @@
 ## Back-end Best Practices
-Prepared for: future husky student with interest in back-end development
+Prepared for: Future husky student with interest in back-end development
 <br />
 Prepared by: Curtis Gilchrist
 <br />
 Date: October 27, 2026
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#purpose">Purpose</a></li>
-    <li><a href="#pick-one-framework-and-master-it">Pick one framework and master it</a></li>
-    <li><a href="#build-skills-and-your-portfolio-with-projects">Build skills and your portfolio with projects</a></li>
-    <li><a href="#electives">Electives</a></li>
-  </ol>
-</details>
+## Table of Contents
+ - [Purpose](#purpose)
+ - [Pick one framework and master it](#pick-one-framework-and-master-it)
+ - [Build skills and your portfolio with projects](#build-skills-and-your-portfolio-with-projects)
+ - [Learn network design from electives](#learn-network-design-from-electives)
+ - [Learn security from GrayHats on-campus](#learn-security-from-grayhats-on-campus)
+
 
 <!-- PURPOSE -->
 ## Purpose
@@ -30,12 +28,25 @@ Pick your favorite language, whichever you are strongest in, and master its fram
 ## Build skills and your portfolio with projects
 Having projects outside of your classes shows recruiters that you are capable of teaching yourself, and demonstrates mastery. It also allows you to get practice with tools you will use in industry.
 <br /><br />
-Start by finding a problem that can be solved with back-end tools. Simple problems are better to start with, then you can get more complex. Study the problem, study existing solutions. Make your own solution and test with a docker container. Document the whole process, recruiters will want to look at your work.
-<br /><br />
+Start by finding a problem that can be solved with back-end tools, there are plenty of problems pre-made to help you[^1]. Simple problems are better to start with, then you can get more complex. Study the problem, study existing solutions. Make your own solution and test with a docker container. Document the whole process, recruiters will want to look at your work.
 
-<img alt="There are too many moving parts in a server" src="Client.png" width="400" align="right">
+[^1]: Doglio, F. (2025, December 19). 20 backend project ideas to take you from beginner to pro. roadmap.sh. https://roadmap.sh/backend/project-ideas 
+
+<img alt="There are too many moving parts in a server" src="Client.png" width="200" align="right">
+<br />
+Most of your projects should not be large-scale. Most of your projects should only focus on just one or two aspects of a server. Focus on learning one thing at a time, and once you have enough pieces you can start to assemble the bigger picture. See image to the right, it would be ridiculous to expect one person to make all moving parts for a back-end as one project. Especially if they are new.
+<br /><br />
 
 
 <!-- ELECTIVES -->
-## Electives
-Consider taking CSS 432 Network Design and Programming. This is because internet architecture is not covered by any of the projects previously listed.
+## Learn network design from electives
+Internet architecture is not covered by any of the projects previously listed, but it is an important part of how servers work. Knowledge in that area is valuable no matter what framework you end up using.
+<br /><br />
+Take CSS 432 Network Design and Programming, and implement what you learn in more projects.
+<br /><br />
+
+<!-- CLUBS -->
+## Learn security from GrayHats on-campus
+Websites, being exposed to the open internet, are at constant risk of exploitation. On any given day there could be vulnerability announced about a major web tool, like the PHP2SHELL vulnerabilities that were dropped recently. Security is important to keep the back-end safe.
+<br /><br />
+Spend time with GrayHats on campus to learn about these vulnerabilities and how to protect against them. Better yet if you learn to pen-test and make your back-end not just safe from vulnerabilities but secure.
