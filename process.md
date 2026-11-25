@@ -1,4 +1,4 @@
-# Back-end Best Practices
+# Best Practices to Become a Back-end Developer
 Prepared for: Future husky student pursuing a job in back-end development
 <br />
 Prepared by: Curtis Gilchrist
