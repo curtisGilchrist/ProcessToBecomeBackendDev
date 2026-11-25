@@ -66,7 +66,7 @@ Take CSS 432 Network Design and Programming, and implement what you learn in mor
 
 <!-- CLUBS -->
 ## Learn security from GrayHats on-campus
-Websites, being exposed to the open internet, are at constant risk of exploitation. On any given day there could be vulnerability announced about a major web tool, like the PHP2SHELL and JAVA4SHELL vulnerabilities that were dropped recently. Security is important to keep the back-end safe. Cybersecurity is also one of the most rapidly expanding parts of the industry right now[3] thanks to AI finding these vulnerabilities on a daily basis.
+Websites, being exposed to the open internet, are at constant risk of exploitation. On any given day there could be vulnerability announced about a major web tool, like the PHP2SHELL and JAVA4SHELL vulnerabilities that were dropped recently. Security is important to keep the back-end safe. Stefan Hoppe, who works at earthsciences.nz as chief information security officer, says "Cybersecurity would be the second largest thing that's going on just because AI is causing a lot of cybersecurity vulnerabilities responses".[3]
 <br /><br />
 Spend time with GrayHats on campus to learn about these vulnerabilities and how to protect against them. Learn to pen-test and make your back-end secure. Keep up to date with vulnerabilities, and patch your work when it is affected.
 
@@ -75,6 +75,6 @@ Spend time with GrayHats on campus to learn about these vulnerabilities and how 
 
 [2]: H. Nyakundi. "How to write a good README file for your github project", freeCodeCamp.org. 8 December 2021. [Online]. Available: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/ [Accessed Oct. 27, 2026]
 
-[3]: Stefan Hoppe. Personal Interview. 5 November 2026.
+[3]: Hoppe, Stefan. Personal Interview. 5 November 2026.
 
-[word count: 621]
+[word count: 630]
